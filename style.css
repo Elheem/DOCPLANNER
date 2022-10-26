@@ -1,0 +1,482 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+}
+
+.navbarre {
+    margin-top: 2%;
+    margin-bottom: auto;
+    margin-right: 12%;
+}
+
+.linkNav {
+    margin-right: 20px;
+    text-decoration: none;
+    font-weight: bolder;
+    color: rgb(184, 179, 179);
+}
+
+.linkNav:hover {
+    color: rgb(28, 219, 194);
+}
+
+.logo-docplanner {
+    margin-left: 200px;
+}
+
+.logo {
+    display: block;
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 11%;
+}
+
+h1 {
+    color: rgb(28, 219, 194);
+    font-weight: normal;
+    text-align: center;
+}
+
+.paragraph {
+    display: flex;
+    color: rgb(138, 136, 136);
+    line-height: 30px;
+    font-size: 20px;
+    margin-right: 15%;
+    margin-left: 15%;
+    margin-top: 3%;
+}
+
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 96%;
+    height: 22%;
+    background-color: white;
+}
+
+.p-right {
+    margin-right: 3%;
+}
+
+.p-left {
+    margin-left: 3%;
+}
+
+.threeblocks {
+    display: flex;
+    /* justify-content: space-around; */
+    margin-top: 1%;
+    margin-bottom: 3%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.bgreen {
+    background-color: rgb(28, 219, 194);
+    color: white;
+    height: 290px;
+    width: 33%;
+    margin-left: 3%;
+    margin-right: 3%;
+    border-radius: 6%;
+    padding: 3%;
+}
+
+.bblue {
+    background-color: rgb(17, 108, 245);
+    color: white;
+    height: 290px;
+    width: 33%;
+    margin-left: 3%;
+    margin-right: 3%;
+    border-radius: 6%;
+    padding: 3%;
+}
+
+.bblack {
+    background-color: rgb(18, 18, 19);
+    color: white;
+    height: 290px;
+    width: 33%;
+    margin-left: 3%;
+    margin-right: 3%;
+    border-radius: 6%;
+    padding: 3%;
+}
+
+h4 {
+    color: rgb(28, 219, 194);
+    font-size: 29px;
+    font-weight: 50;
+    margin-top: 0%;
+    margin-bottom: 5%;
+    margin-left: 12%;
+    margin-right: 3%;
+    height: 20%;
+    width: 20%;
+}
+
+.logo-one {
+    width: 20px;
+    height: 20px;
+}
+
+svg {
+    width: 200;
+    height: 200;
+    color: rgb(184, 179, 179);
+}
+
+svg:hover {
+    fill: rgb(28, 219, 194);
+}
+
+.links {
+    width: 50%;
+    height: 20%;
+    margin-right: 20%;
+    justify-content: space-between;
+}
+
+.link:hover {
+    color: rgb(28, 219, 194);
+}
+
+.link-one {
+    margin-right: 20px;
+    text-decoration: none;
+    font-weight: bolder;
+    color: rgb(184, 179, 179);
+}
+
+.link-one:hover {
+    color: rgb(28, 219, 194);
+}
+
+.link-two {
+    margin-right: 20px;
+    text-decoration: none;
+    font-weight: bolder;
+    color: rgb(184, 179, 179);
+}
+
+.link-two:hover {
+    color: rgb(28, 219, 194);
+}
+
+.link-three {
+    margin-right: 20px;
+    text-decoration: none;
+    font-weight: bolder;
+    color: rgb(184, 179, 179);
+}
+
+.link-three:hover {
+    color: rgb(28, 219, 194);
+}
+
+.link-four {
+    margin-right: 20px;
+    text-decoration: none;
+    font-weight: bolder;
+    color: rgb(184, 179, 179);
+}
+
+.link-four:hover {
+    color: rgb(28, 219, 194);
+}
+
+.link-five {
+    margin-right: 20px;
+    text-decoration: none;
+    font-weight: bolder;
+    color: rgb(184, 179, 179);
+}
+
+.link-five:hover {
+    color: rgb(28, 219, 194);
+}
+
+.global {
+    display: flex;
+    justify-content: space-between;
+    font-weight: 40%;
+}
+
+h5 {
+    color: rgb(28, 219, 194);
+    font-size: 30px;
+    font-weight: normal;
+    height: 80%;
+    width: 33%;
+    margin-top: -27%;
+    text-align: center;
+}
+
+.plateform {
+    /* background-color: rgb(191, 250, 240);
+      padding : 20%;
+      margin-bottom: 10%;
+      margin-top: 0%;
+      width: 60%; */
+    background-color: rgb(191, 250, 240);
+    padding: 0%;
+    margin-bottom: 10%;
+    margin-top: 0%;
+    display: flex;
+    height: 700px;
+    width: 100%;
+    /* display: flex; */
+}
+
+h6 {
+    color: rgb(184, 179, 179);
+    font-size: 18px;
+    font-weight: normal;
+    margin-top: 0%;
+    margin-bottom: 5%;
+    margin-left: 0%;
+    margin-right: 0%;
+    height: 100%;
+    width: 50%;
+    padding: 0%;
+}
+
+.cadre-one {
+    background-color: white;
+    width: 40%;
+    /* height: -39%; */
+    /* margin-bottom: 4%;
+      margin-right: 30%; */
+    text-align: center;
+    height: 40%;
+    margin-top: 10%;
+    margin-right: 3%;
+    border-radius: 15px;
+}
+
+.cadre-two {
+    background-color: white;
+    width: 40%;
+    /* height: 30%; */
+    /* margin-bottom: 4%;
+      margin-right: 30%; */
+    text-align: center;
+    height: 40%;
+    border-radius: 15px;
+}
+
+.cadre-three {
+    background-color: white;
+    width: 40%;
+    /* height: -39%; */
+    /* margin-bottom: 4%;
+      margin-right: 30%; */
+    text-align: center;
+    height: 40%;
+    margin-top: 10%;
+    margin-right: 3%;
+    border-radius: 15px;
+}
+
+.cadre-four {
+    background-color: white;
+    width: 40%;
+    /* height: -39%; */
+    /* margin-bottom: 4%;
+      margin-right: 30%; */
+    text-align: center;
+    height: 40%;
+    border-radius: 15px;
+}
+
+.translate {
+    background-image: url(images/image_de_fond.png);
+    /* transform: translate(10px); */
+    width: 30%;
+}
+
+.left {
+    width: 30%;
+}
+
+.cadre {
+    width: 40%;
+    display: flex;
+    flex-flow: wrap;
+    margin-top: 2%;
+}
+
+
+/* .cadre{
+    display: flex;
+    flex-flow: wrap;
+    width: 70%;
+  } */
+
+p {
+    color: rgb(184, 179, 179);
+    /* margin-top: ; */
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+    width: 36%;
+    margin-top: -3%;
+    font-size: 100%;
+    margin-bottom: 6%;
+}
+
+h3 {
+    color: rgb(184, 179, 179);
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+    font-size: 70%;
+    margin-top: 1%;
+}
+
+.bottom {
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+    background-color: white-space;
+    color: white;
+    font-weight: bold;
+    padding: 10px 40px;
+    border-radius: 8px;
+    background-color: rgb(17, 131, 177);
+    border: white;
+    cursor: pointer;
+    display: block;
+    margin: auto;
+    margin-bottom: 6%;
+}
+
+h2 {
+    font-weight: normal;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+    font-size: 145%;
+}
+
+.bot {
+    background-color: rgb(17, 131, 177);
+    border-radius: 8px;
+    color: white;
+    width: 40%;
+    height: 10%;
+    cursor: pointer;
+}
+
+.titre-botton {
+    display: flex;
+    justify-content: space-around;
+    cursor: pointer;
+}
+
+
+/* .pictures {
+    margin-top: 30%;
+  } */
+
+.pic-one {
+    background-color: rgb(245, 247, 238);
+}
+
+.pic {
+    margin-bottom: 2%;
+    border-radius: 14px;
+    cursor: pointer;
+}
+
+.tab {
+    border: white;
+    border-spacing: 50%;
+    margin: auto;
+    text-align: left;
+    margin-bottom: 7%;
+}
+
+.textImprove {
+    color: rgb(28, 219, 194);
+    font-size: 30px;
+    font-weight: normal;
+    height: 80%;
+    width: 33%;
+    /* margin-top: -27%; */
+    text-align: center;
+}
+
+.textWorldBig {
+    color: rgb(28, 219, 194);
+    font-size: 30px;
+    font-weight: normal;
+    /* height: 80%; */
+    width: 33%;
+    /* margin-top: -27%; */
+    text-align: center;
+    margin-top: 6%;
+}
+
+.leftDiv {
+    margin: auto;
+}
+
+.textWeWork {
+    margin-left: 30%;
+}
+
+img.imgTranslate {
+    margin-top: 26%;
+    margin-left: 20%;
+}
+
+.dropdown a:hover {
+    color: rgb(28, 219, 194);
+}
+
+.dropbtn {
+    background-color: #4caf50;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: white;
+    min-width: 160px;
+    z-index: 1;
+}
+
+.dropdown-content a {
+    /* color: black; */
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    color: rgb(184, 179, 179);
+    display: block;
+    width: 180px;
+}
+
+.dropdown-content a:hover {
+    background-color: rgb(248, 242, 242);
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.dropdown:hover .dropbtn {
+    background-color: #3e8e41;
+}
